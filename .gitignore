@@ -70,3 +70,5 @@ fastlane/test_output
 ######################
  # OS generated files #
  .DS_Store*
+ReadingBooks/.DS_Store
+ReadingBooks/SwiftPrograming(yagom)/.DS_Store
