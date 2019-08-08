@@ -8,4 +8,4 @@
 
 #### 책 목록
 
-- 스위프트 프로그래밍(2판) - 야곰지음
+- [스위프트 프로그래밍(2판) - 야곰지음](https://github.com/DAEUN28/ReadingBooks/tree/master/SwiftPrograming(yagom))
