@@ -56,3 +56,14 @@
 - 특정 문맥에 의해 예약된 키워드 : associativity, convenience, dynamic, didSet, final, get, infix, indirect, lazy, left, mutating, none, nonmutating, optional, override, postfix, precedence, prefix, Protocol, required, right, set, type, unowned, weak, willSet 
 - 사용자정의 연산자로 사용이 불가능한 특수기호: (, ), {, }, ., ,, :, ;, =, @, &(전위 연산자), ->, `, ?, !(후위 연산자)
 - 선언 수식어: dynamic, final, lazy, optional, required, weak, open, public, internal, fileprivate, private
+
+
+
+# D 디버깅 식별자
+
+프로그램을 빌드하고 실행 중 디버깅을 할 떄 유용하게 사용할 수 있는 식별자이다.
+
+- \#file : 현재 코드가 실행 중인 파일 이름을 나타낸다. - String Type
+- \#line : 현재 코드가 실행되고 있는 파일의 몇 번 줄에 위치하는지 나타낸다. - Int Type
+- \#column : 현재 코드가 실행되고 있는 줄의 몇 번 칸에 위치하는지 나타낸다. - Int Type
+- \#function : 현재 코드가 실행되고 있는 함수의 이름을 나타낸다. - String Type
